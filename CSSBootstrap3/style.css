@@ -1,0 +1,16 @@
+.nav {
+    background-color: aquamarine;
+    height: 500px;
+}
+.header {
+    background-color: limegreen;
+    height: 100px;
+}
+.article {
+    background-color: lime;
+    height: 300px;
+}
+.footer {
+    background-color: limegreen;
+    height: 100px;
+}
