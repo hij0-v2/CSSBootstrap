@@ -1,0 +1,57 @@
+/*///////////// HEADER //////////////*/
+.header {
+    margin: 0 auto;
+    width: 100%;
+    margin-bottom: 100px;
+    position:relative;
+    text-align: center;
+}
+.logo {
+    height: 10%;
+    width: 30%;
+    position: absolute;
+    top:10%;
+    left:50%;
+    z-index:9999;
+    transform:translate(-50%,-50%);
+}
+.headrtext {
+    font-size: 160%;
+    position: absolute;
+    color: white;
+    top:60%;
+    left: 50%;
+    z-index:9999;
+    transform:translate(-50%,-50%);
+
+}
+.headrtext1 {
+    font-size: 160%;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    top:70%;
+    left: 50%;
+    z-index:9999;
+    transform:translate(-50%,-50%);
+}
+.callbox {
+    background-color: white;
+    width: 30%;
+    height: 40%;
+    top:80%;
+    left:35%;
+    position: absolute;
+    box-shadow:0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
+}
+.zipc {
+
+}
+/*/////////////        //////////////*/
+input[type=text] {
+    width: 100%;
+    height: 10%;
+}
+input[type=text]:focus {
+border: 3px solid #555
+}
