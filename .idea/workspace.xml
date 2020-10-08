@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="af6c4f1c-3b79-4121-9778-428a635d6917" name="Default Changelist" comment="" />
+    <list default="true" id="af6c4f1c-3b79-4121-9778-428a635d6917" name="Default Changelist" comment="made some progress">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSSBootstrapProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CSSBootstrapProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSSBootstrapProject/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSSBootstrapProject/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSSBootstrapProject/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSSBootstrapProject/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +35,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="1iUZoYJi9SHeC0SM7mLDbCLwV5i" />
   <component name="ProjectViewState">
@@ -21,7 +45,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSSBootstrapProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -33,16 +58,49 @@
       <option name="presentableId" value="Default" />
       <updated>1601964306558</updated>
       <workItem from="1601964307692" duration="142000" />
+      <workItem from="1601972475846" duration="271000" />
+      <workItem from="1602152545528" duration="15000" />
     </task>
+    <task id="LOCAL−00001" summary="made some progress">
+      <created>1601972591303</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1601972591303</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="made some progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="made some progress" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1601964449974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601964449974" />
+    <state x="922" y="168" key="SettingsEditor" timestamp="1601972674524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601972674524" />
+    <state x="1030" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601972617096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1030" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601972617096" />
   </component>
 </project>

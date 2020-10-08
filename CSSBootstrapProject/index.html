@@ -12,21 +12,74 @@
 </head>
 <body>
 
-
+<!-- Header -->
 <div class="container header">
     <div class="row aukstis">
-        <div class="row-12 headrbacgr">
+        <div class="d-flex flex-row headrbacgr">
             <img src="src/top/background/banner.png" class="img-fluid" alt="bacgroundimagecityview" width="100%">
-            <div class="row logo"><img src="src/top/logo/logo.png" class="img-fluid" alt="wglogo"> </div>
-            <div class="row headrtext"><p>BE SURE YOU PUT YOUR FEET</p></div>
-            <div class="row headrtext1"><p>IN THE RIGHT PLACE</p></div>
-            <div class="row callbox">
-                <div class="row zip"><label for="zipc"></label>
-                    <input type="text" id="zipc" name="zipcode" placeholder="Enter your zip code"></div>
+            <div class="logo"><img src="src/top/logo/logo.png" class="img-fluid" alt="wglogo"></div>
+            <div class="headrtext"><p>BE SURE YOU PUT YOUR FEET <br><strong>IN THE RIGHT PLACE</strong></p></div>
+            <div class="d-flex flex-row callbox">
+                <div style="height:auto; width:100%;">
+                    <div class="mb-4 zip"><label for="zipc"></label>
+                        <input type="text" pattern="[0-9]{5}" id="zipc" name="zipcode"
+                               placeholder="Enter your zip code">
+                    </div>
+                    <div class="tourimg"><img src="src/top/calltobox/MidPictures/pictures.png" class="img-fluid"
+                                              alt="tourist city images"></div>
+                    <div class="mt-3 calltext1"><p style="color: gray">This is Photoshop's version of <br> Lorem Ipsum</p></div>
+                    <div class="mr-5 ml-5 pr-4 pl-4 block">
+                        <button type="submit" class="btn btn-primary btn-block"><strong>PRESS ME</strong></button>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </div>
+
+<!-- Header bottom -->
+<div class="container header_bottom">
+    <div class="row aukstis1">
+        <div class="d-flex flex-row docu_photos_box">
+            <div class="col-2 docu_ico"><img src="src/lowertop/documents/docicon.png"
+                                             class="img-fluid float-right float-bottom"></div>
+            <div class="col-4 docu_text"><p>
+                <h2><strong>Documents</strong></h2>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
+                velit auctor aliquet. Aenean sollicitudin</p></div>
+            <div class="col-2 photo_ico"><img src="src/lowertop/photos/photosicon.png" class="img-fluid float-right">
+            </div>
+            <div class="col-4 photo_text"><p>
+                <h2><strong>Photos</strong></h2>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit
+                auctor aliquet. Aenean sollicitudin</p></div>
+        </div>
+    </div>
+</div>
+
+<!-- Middle -->
+<div class="container middle">
+    <div class="row aukstis"></div>
+    <div class="d-flex flex-row middletop">
+        <img src="src/mid/background/backgroundmid.png" class="img-fluid" alt="background" width="100%">
+        <div class="phone_tablet"><img src="src/mid/midtop/phone.png">
+        </div>
+        <div class="heading"><h2><strong>This is a Heading</strong></h2></div>
+        <div class="phone_text"><p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor
+            aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
+            nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. <br>
+        </div>
+        <div class="phone_text1"><p><br>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.
+            Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per
+            conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum
+            sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. </p></div>
+    </div>
+    <!-- Middle bottom -->
+    <div class="d-flex flex-row middlebot">
+
+    </div>
+
+</div>
+
+
 
 
 <!-- Scripts -->
