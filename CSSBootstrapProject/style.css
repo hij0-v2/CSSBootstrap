@@ -144,8 +144,8 @@ width: 100%;
     color: white;
     width: 25%;
     height: 40%;
-    top:272%;
-    left: 53%;
+    top:260%;
+    left: 50%;
     z-index:9999;
     transform:translate(-50%,-50%);
 
@@ -153,23 +153,46 @@ width: 100%;
     border-radius: 50%;
     box-shadow:0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
 }
+.checkbox{
+    position: absolute;
+    width: auto;
+    height: auto;
+    top:82%;
+    left: 50%;
+    z-index:9999;
+    transform:translate(-50%,-50%);
+}
+
 .name{
     margin-left: 50px;
     margin-top: 85px;
-    width: 70%;
+    width: 75%;
     height: auto;
 }
 .email{
     margin-left: 50px;
-    width: 70%;
+    width: 75%;
     height: auto;
 }
 .message{
     margin-left: 50px;
-    width: 70%;
+    width: 75%;
     height: 30%;
 }
 
+.footertext {
+    width: 100%;
+    text-align: center;
+    color: white;
+
+    position: absolute;
+    width: auto;
+    height: auto;
+    top:289%;
+    left: 50%;
+    z-index:9999;
+    transform:translate(-50%,-50%);
+}
 /*///////// Input boxes/text(p) //////////*/
 input[type=text] {
     width: 100%;
