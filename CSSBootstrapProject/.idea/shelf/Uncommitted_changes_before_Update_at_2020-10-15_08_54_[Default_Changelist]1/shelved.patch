@@ -1,0 +1,69 @@
+Index: ../.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"af6c4f1c-3b79-4121-9778-428a635d6917\" name=\"Default Changelist\" comment=\"made some progress\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/CSSBootstrapProject/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/CSSBootstrapProject/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/CSSBootstrapProject/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/CSSBootstrapProject/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/CSSBootstrapProject/style.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/CSSBootstrapProject/style.css\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"SET_USER_NAME_GLOBALLY\" value=\"false\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1iUZoYJi9SHeC0SM7mLDbCLwV5i\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"af6c4f1c-3b79-4121-9778-428a635d6917\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1601964306558</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1601964306558</updated>\r\n      <workItem from=\"1601964307692\" duration=\"142000\" />\r\n      <workItem from=\"1601972475846\" duration=\"271000\" />\r\n      <workItem from=\"1602152545528\" duration=\"15000\" />\r\n    </task>\r\n    <task id=\"LOCAL−00001\" summary=\"made some progress\">\r\n      <created>1601972591303</created>\r\n      <option name=\"number\" value=\"LOCAL−00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00001\" />\r\n      <updated>1601972591303</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"made some progress\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"made some progress\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"1220\" y=\"275\" key=\"FileChooserDialogImpl\" timestamp=\"1601964449974\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"1220\" y=\"275\" key=\"FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601964449974\" />\r\n    <state x=\"922\" y=\"168\" key=\"SettingsEditor\" timestamp=\"1601972674524\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"922\" y=\"168\" key=\"SettingsEditor/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601972674524\" />\r\n    <state x=\"1030\" y=\"256\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1601972617096\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"1030\" y=\"256\" key=\"Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601972617096\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../.idea/workspace.xml	(revision faedfd011eaa40dff7a38fa5413d09dcea9287e6)
++++ ../.idea/workspace.xml	(date 1602154246558)
+@@ -19,11 +19,9 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="af6c4f1c-3b79-4121-9778-428a635d6917" name="Default Changelist" comment="made some progress">
++    <list default="true" id="af6c4f1c-3b79-4121-9778-428a635d6917" name="Default Changelist" comment="made middle bot section">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/CSSBootstrapProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CSSBootstrapProject/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/CSSBootstrapProject/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSSBootstrapProject/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/CSSBootstrapProject/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSSBootstrapProject/style.css" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -60,6 +58,8 @@
+       <workItem from="1601964307692" duration="142000" />
+       <workItem from="1601972475846" duration="271000" />
+       <workItem from="1602152545528" duration="15000" />
++      <workItem from="1602152570868" duration="1631000" />
++      <workItem from="1602154241513" duration="5000" />
+     </task>
+     <task id="LOCAL−00001" summary="made some progress">
+       <created>1601972591303</created>
+@@ -67,7 +67,13 @@
+       <option name="presentableId" value="LOCAL−00001" />
+       <updated>1601972591303</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL−00002" summary="made middle bot section">
++      <created>1602152659829</created>
++      <option name="number" value="LOCAL−00002" />
++      <option name="presentableId" value="LOCAL−00002" />
++      <updated>1602152659829</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -87,7 +93,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="made some progress" />
+-    <option name="LAST_COMMIT_MESSAGE" value="made some progress" />
++    <MESSAGE value="made middle bot section" />
++    <option name="LAST_COMMIT_MESSAGE" value="made middle bot section" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1601964449974">
+@@ -98,9 +105,9 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="922" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601972674524" />
+-    <state x="1030" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601972617096">
++    <state x="1030" y="256" key="Vcs.Push.Dialog.v2" timestamp="1602152683993">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="1030" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601972617096" />
++    <state x="1030" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602152683993" />
+   </component>
+ </project>
+\ No newline at end of file

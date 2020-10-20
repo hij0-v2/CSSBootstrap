@@ -42,7 +42,7 @@
 .tourimg {
 width: 100%;
 }
-/*//////////// Header low /////////////*/
+/*//////////// Header bot /////////////*/
 .header_bottom {
     margin:0 auto;
     width: 100%;
@@ -144,7 +144,7 @@ width: 100%;
     color: white;
     width: 25%;
     height: 40%;
-    top:260%;
+    top:270%;
     left: 50%;
     z-index:9999;
     transform:translate(-50%,-50%);
@@ -186,12 +186,86 @@ width: 100%;
     color: white;
 
     position: absolute;
-    width: auto;
     height: auto;
-    top:289%;
+    top:301%;
     left: 50%;
     z-index:9999;
     transform:translate(-50%,-50%);
+}
+
+
+@media only screen and (max-width:600px){
+.headrtext {
+    font-size: 50%;
+}
+    .tourimg {
+    }
+.callbox {
+    left:0;
+    width: 100%;
+    height: 300px;
+}
+.calltext1 {
+    font-size: 60%;
+}
+.docu_photos_box {
+    margin-top: 125px;
+
+}
+strong {
+    font-size: 50%;
+}
+.docu_text {
+    top: -20%;
+    font-size: 50%;
+}
+
+.photo_text {
+    font-size: 50%;
+    top: -20%;
+}
+.computer {
+ width: 20%;
+    top: 140%;
+    left: 20%;
+}
+.computer_text {
+    font-size: 50%;
+    top: 10%;
+
+}
+.heading {
+    font-size: 50%;
+    top: 115%;
+    width: 100%;
+}
+.heading2 {
+    font-size: 50%;
+    top: 135%;
+    left: 90%;
+    width: 100%;
+    height: auto;
+}
+.phone_tablet {
+    width: 20%;
+    top: 105%;
+}
+.phone_text {
+    font-size: 50%;
+    top: 125%;
+}
+.phone_text1 {
+    font-size: 0;
+}
+.message {
+    font-size: 50%;
+}
+.computer_text {
+    font-size: 50%;
+    top: 150%;
+    width: 60%;
+}
+
 }
 /*///////// Input boxes/text(p) //////////*/
 input[type=text] {
